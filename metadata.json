@@ -1,0 +1,6 @@
+{
+  "name": "RCA Skincare - Multi-Branch Clinic ERP",
+  "description": "Sistem manajemen terpusat klinik kecantikan RCA Skincare untuk 3 cabang (Springhill, Sudirman, Pangkalan Balai) dengan integrasi Google Sheets, stok opname, dan ekspor Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
